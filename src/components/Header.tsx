@@ -5,11 +5,10 @@ export function Header() {
   return (
     <Flex
       as="header"
-      w="100"
+      w="100%"
       maxWidth={
-      1480
-      }
-      h="20"
+      1480 }
+      h="20vh"
       mx="auto"
       mt="4"
       align="center"
